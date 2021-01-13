@@ -1,6 +1,6 @@
 ### Hi there 👋
 </br>
-https://velog.io/@aksel26
+
 
 
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**블로그** : https://aksel26.github.io/ ,  
+**블로그** : https://aksel26.github.io/ 
 
 </br>
 </br>
