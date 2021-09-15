@@ -22,12 +22,13 @@
     <img src="https://img.shields.io/badge/jQuery-FF5733?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/typescript-C8CD3A?style=flat-square&logo=typescript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/react-56C34B?style=flat-square&logo=react&logoColor=white"/>&nbsp 
+        </br>
     <img src="https://img.shields.io/badge/redux-50D0A3?style=flat-square&logo=redux&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/next-50CAD0?style=flat-square&logo=next&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/yarn-ACC2EA?style=flat-square&logo=yarn&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/prettier-C7ACEA?style=flat-square&logo=prettier&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/eslint-E8ACEA?style=flat-square&logo=redux&logoColor=white"/>&nbsp 
-                                                                        </br>
+                                                                                </br>
     <img src="https://img.shields.io/badge/C++-EAACC5?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
